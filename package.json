@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "dev-opd": "nodemon optimized_index/index_optimized"
   },
   "keywords": [],
   "author": "",
